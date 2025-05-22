@@ -24,6 +24,3 @@ My core expertise spans:
 I'm particularly interested in projects at the intersection of mobile technology, embedded hardware, real-time data, and geographical information systems.
 
 ---
-
-### Reach me:
-* nghinguyen.developer@gmail.com
