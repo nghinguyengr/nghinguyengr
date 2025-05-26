@@ -18,7 +18,7 @@ My core expertise spans:
     * Experience with various streaming protocols, video encoding/decoding, live stream implementation, and efficient video playback on mobile/embedded devices.
 * **Map Services:**
     * Integrating and customizing popular map APIs (e.g., Google Maps, Mapbox), developing location-based features, geofencing, and custom map overlays.
-* **Firebase Integration:**
+* **API/Firebase Integration:**
     * Proficient in utilizing Firebase services for mobile application backends, including Authentication, Cloud Firestore/Realtime Database, Cloud Functions, Storage, and Analytics.
 
 I'm particularly interested in projects at the intersection of mobile technology, embedded hardware, real-time data, and geographical information systems.
