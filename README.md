@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm a dedicated **Software Engineer** specializing in **mobile application development and embedded systems**, with a significant background in **image processing**, **efficient data transfer**, **video streaming**, **map services**, **Firebase backend integration**, **native library integration for Android**, and **API integration**. I thrive on tackling complex technical challenges and delivering robust, high-performance solutions.
+I'm a dedicated **Software Engineer** specializing in **mobile application development and embedded systems**. I excel at **structuring complex projects** and applying **Clean Architecture** principles to build robust, scalable, and high-performance solutions.
+My significant background spans **image processing**, **efficient data transfer**, **video streaming**, **map services**, **Firebase backend integration**, **native library integration for Android**, and **API integration**. I thrive on tackling complex technical challenges.
+
 
 My core expertise spans:
 
