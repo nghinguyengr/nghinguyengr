@@ -162,9 +162,8 @@ A comprehensive, cross-platform application developed specifically for Hyundai s
 I'm always open to discussing new projects, collaboration opportunities, or complex technical challenges!
 
 **✉️ Email**: [nghinguyen.developer@gmail.com](mailto:nghinguyen.developer@gmail.com)
-**🔗 LinkedIn**: [https://linkedin.com/nghi-nguyen](https://www.linkedin.com/in/ngh%E1%BB%8B-nguy%E1%BB%85n-47a5a2244/)
+**🔗 LinkedIn**: [https://linkedin.com/nghi-nguyen](https://www.linkedin.com/in/nghinguyen-/)
 
 ---
-
 
 </div>
